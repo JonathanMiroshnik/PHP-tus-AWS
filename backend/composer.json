@@ -1,0 +1,7 @@
+{
+    "require": {
+        "ankitpokhrel/tus-php": "^2.4",
+        "aws/aws-sdk-php": "^3.344",
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
